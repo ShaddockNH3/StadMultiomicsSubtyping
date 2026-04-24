@@ -211,3 +211,7 @@ docs/
 
 # data
 biography_data/
+
+# results
+results/
+results_archive/
